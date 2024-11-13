@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121704085836",
+    "project_id": "prod-counter",
+    "storage_bucket": "prod-counter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121704085836:android:0d703a14471b4b710e37e9",
+        "android_client_info": {
+          "package_name": "com.counter.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvS2KIGPSQ4YAoxZg9dm4f8bSe19u3PxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
